@@ -16,7 +16,7 @@ Take a look through to see what I have been working on and how my full-stack dev
 
 ## License
 
-MIT
+MIT License
 
 ## Contact
 
