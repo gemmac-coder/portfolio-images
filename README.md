@@ -18,6 +18,10 @@ Take a look through to see what I have been working on and how my full-stack dev
 
 MIT License
 
+## Screenshot
+
+![Screenshot showcasing view on mobile breakpoint 2/3 ](public/assets/react-js-portfolio.png)
+
 ## Contact
 
 For all enquiries, contact me at gemmacollinge_71@hotmail.com
