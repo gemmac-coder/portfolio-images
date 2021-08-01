@@ -20,7 +20,7 @@ MIT License
 
 ## Screenshot
 
-![Screenshot showcasing view on mobile breakpoint 2/3 ](public/assets/react-js-portfolio.png)
+![Screenshot showcasing react portfolio](public/assets/react-js-portfolio.png)
 
 ## Contact
 
