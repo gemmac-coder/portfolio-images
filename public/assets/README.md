@@ -22,10 +22,6 @@ MIT License
 
 For all enquiries, contact me at gemmacollinge_71@hotmail.com
 
-## Screenshot
-
-[!Screenshot of React Js Portfolio](public/assets/react-js-portfolio.png)
-
 ## Link to Deployed App
 
 https://gemmac-coder.github.io/react-js-portfolio/
